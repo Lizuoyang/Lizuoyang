@@ -29,14 +29,14 @@
 &emsp;&emsp;
 ![SpringBoot](https://img.shields.io/badge/-springboot-green?style=flat-square&logo=springboot)
 ![SpringCloud](https://img.shields.io/badge/-springcloud-green?style=flat-square&logo=springboot)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-redis-F2F2F2?style=flat-square&logo=redis)
 
 🧠 计划学习:
 
 &emsp;&emsp;
-![Python](https://img.shields.io/badge/-python-yellow?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Docker](https://img.shields.io/badge/-Docker-99ffff?style=flat-square&logo=docker)
 
 
