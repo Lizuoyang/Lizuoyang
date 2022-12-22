@@ -25,8 +25,10 @@
 
 &emsp;&emsp;
 ![SpringBoot](https://img.shields.io/badge/-springboot-green?style=flat-square&logo=springboot)
+![SpringCloud](https://img.shields.io/badge/-springcloud-green?style=flat-square&logo=springboot)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-redis-F2F2F2?style=flat-square&logo=redis)
 
 🧠 计划学习:
 
