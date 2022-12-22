@@ -5,17 +5,41 @@
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/Lizuoyang/mycdn/gif/keyboard.gif"/></div>
 <br>
 
+#  🙋 Hello
+
+<p>✍️&nbsp;&nbsp;一个正在努力成为架构师的程序员!</p>
+<p>&emsp;&emsp;Work harder and get better.</p>
+
+<!-- 比较好的开源项目卡片 -->
+<div align="center">
+<a href="https://github.com/Lizuoyang/mycdn">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lizuoyang&repo=mycdn&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+
+
+💪 正在学习: 
+
+&emsp;&emsp;
+![SpringBoot](https://img.shields.io/badge/-springboot-green?style=flat-square&logo=springboot)
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+
+🧠 计划学习:
+
+&emsp;&emsp;
+![Python](https://img.shields.io/badge/-python-yellow?style=flat-square&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-99ffff?style=flat-square&logo=docker)
+
+
 🧰 常用的工具:
 
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![IDEA](https://img.shields.io/badge/-IDEA-66ccff?style=flat-square&logo=idea)
+![Datatrip](https://img.shields.io/badge/-Datatrip-66ccff?style=flat-square&logo=datatrip)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-
-💪 正在学习: 
-
 <!--
 **Lizuoyang/Lizuoyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
