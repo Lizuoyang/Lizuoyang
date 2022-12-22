@@ -50,6 +50,9 @@
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+
+# Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lizuoyang&show_icons=true&count_private=true" align="center" /></div> 
 <!--
 **Lizuoyang/Lizuoyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
