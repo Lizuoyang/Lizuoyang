@@ -27,11 +27,11 @@
 💪 正在学习: 
 
 &emsp;&emsp;
-![SpringBoot](https://img.shields.io/badge/-springboot-green?style=flat-square&logo=springboot)
-![SpringCloud](https://img.shields.io/badge/-springcloud-green?style=flat-square&logo=springboot)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=springboot)
+![SpringCloud](https://img.shields.io/badge/-SpringCloud-green?style=flat-square&logo=springboot)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-redis-F2F2F2?style=flat-square&logo=redis)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-F2F2F2?style=flat-square&logo=redis)
 
 🧠 计划学习:
 
