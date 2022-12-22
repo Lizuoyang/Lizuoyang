@@ -5,6 +5,9 @@
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/Lizuoyang/mycdn/gif/keyboard.gif"/></div>
 <br>
 
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Lizuoyang/mycdn/svg/github-contribution-grid-snake.svg" /></div>
+
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;一个正在努力成为架构师的程序员!</p>
