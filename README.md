@@ -18,8 +18,17 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/Lizuoyang/mycdn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lizuoyang&repo=mycdn&theme=buefy" />
+<a href="https://github.com/Lizuoyang/Lzy-Cloud">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lizuoyang&repo=Lzy-Cloud&theme=buefy" />
+</a>
+<a href="https://github.com/Lizuoyang/Lzy-Cloud-Front">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lizuoyang&repo=Lzy-Cloud-Front&theme=buefy" />
+</a>
+<a href="https://github.com/Lizuoyang/Lzy-PlatForm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lizuoyang&repo=Lzy-PlatForm&theme=buefy" />
+</a>
+<a href="https://github.com/Lizuoyang/springboot-2.x-study">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lizuoyang&repo=springboot-2.x-study&theme=buefy" />
 </a>
 </div>
   
