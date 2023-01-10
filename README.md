@@ -10,7 +10,7 @@
 <br>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Lizuoyang/mycdn/svg/github-contribution-grid-snake.svg" /></div>
+![贪吃蛇](https://cdn.jsdelivr.net/gh/Lizuoyang/mycdn/svg/github-contribution-grid-snake.svg)
 
 #  🙋 Hello
 
