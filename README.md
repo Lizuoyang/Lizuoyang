@@ -16,7 +16,7 @@
 
 <p>✍️&nbsp;&nbsp;一个正在努力成为架构师的程序员!</p>
 
-<!-- 比较好的开源项目卡片 -->
+<!-- 比较好的开源项目卡片 
 <div align="center">
 <a href="https://github.com/Lizuoyang/Lzy-Cloud">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lizuoyang&repo=Lzy-Cloud&theme=buefy" />
@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lizuoyang&repo=springboot-2.x-study&theme=buefy" />
 </a>
 </div>
-  
+-->
 
 💪 正在学习: 
 
